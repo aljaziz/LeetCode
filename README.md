@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aljaziz/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/aljaziz/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/aljaziz/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aljaziz/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aljaziz/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/aljaziz/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aljaziz/LeetCode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aljaziz/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/aljaziz/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
