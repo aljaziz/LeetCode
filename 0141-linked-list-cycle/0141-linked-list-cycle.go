@@ -6,11 +6,8 @@
  * }
  */
 func hasCycle(head *ListNode) bool {
-    if head == nil {
-        return false
-    }
 	hashMap := map[*ListNode]bool{}
-	for head.Next != nil {
+	for head != nil {
 		if hashMap[head] {
 			return true
 		}
