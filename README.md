@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aljaziz/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aljaziz/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aljaziz/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/aljaziz/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/aljaziz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aljaziz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aljaziz/LeetCode/tree/master/0567-permutation-in-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aljaziz/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/aljaziz/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aljaziz/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/aljaziz/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/aljaziz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aljaziz/LeetCode/tree/master/0567-permutation-in-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aljaziz/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
