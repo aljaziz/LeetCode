@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aljaziz/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aljaziz/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/aljaziz/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/aljaziz/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aljaziz/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/aljaziz/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aljaziz/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aljaziz/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aljaziz/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/aljaziz/LeetCode/tree/master/0202-happy-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aljaziz/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/aljaziz/LeetCode/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/aljaziz/LeetCode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
