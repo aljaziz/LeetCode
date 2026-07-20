@@ -1,13 +1,16 @@
 func majorityElement(nums []int) int {
-	hashMap := map[int]int{}
-	for _, num := range nums {
-		hashMap[num]++
-	}
+	result, maxOccur := 0, 0
 
-	for i, j := range hashMap {
-		if j > len(nums)/2 {
-			return i
+	for _, num := range nums {
+		if maxOccur == 0 {
+			result = num
+		}
+
+		if result == num {
+			maxOccur++
+		} else {
+			maxOccur--
 		}
 	}
-	return nums[0]
+	return result
 }
