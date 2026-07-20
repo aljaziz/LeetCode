@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aljaziz/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aljaziz/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/aljaziz/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/aljaziz/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aljaziz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aljaziz/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aljaziz/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aljaziz/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/aljaziz/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aljaziz/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aljaziz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aljaziz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aljaziz/LeetCode/tree/master/0567-permutation-in-string) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aljaziz/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aljaziz/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aljaziz/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aljaziz/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aljaziz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aljaziz/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aljaziz/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/aljaziz/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/aljaziz/LeetCode/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -120,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aljaziz/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aljaziz/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aljaziz/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
