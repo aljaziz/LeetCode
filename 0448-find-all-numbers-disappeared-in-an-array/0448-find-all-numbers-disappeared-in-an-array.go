@@ -1,12 +1,12 @@
 func findDisappearedNumbers(nums []int) []int {
-	hashMap := map[int]bool{}
-	for _, num := range nums {
-		hashMap[num] = true
+	for _, val := range nums {
+		val = int(math.Abs(float64(val)))
+		nums[val-1] = -int(math.Abs(float64(nums[val-1])))
 	}
 	ans := []int{}
-	for i := 1; i <= len(nums); i++ {
-		if _, ok := hashMap[i]; !ok {
-			ans = append(ans, i)
+	for i, val := range nums {
+		if val > 0 {
+			ans = append(ans, i+1)
 		}
 	}
 	return ans
