@@ -1,18 +1,13 @@
 func intersection(nums1 []int, nums2 []int) []int {
-	hashMap1 := map[int]bool{}
-	hashMap2 := map[int]bool{}
-
+	hashMap := map[int]bool{}
 	for _, num := range nums1 {
-		hashMap1[num] = true
-	}
-
-	for _, num := range nums2 {
-		hashMap2[num] = true
+		hashMap[num] = true
 	}
 	ans := []int{}
-	for num, _ := range hashMap1 {
-		if hashMap2[num] {
+	for _, num := range nums2 {
+		if hashMap[num] {
 			ans = append(ans, num)
+			hashMap[num] = false
 		}
 	}
 	return ans
