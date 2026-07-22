@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aljaziz/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aljaziz/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aljaziz/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/aljaziz/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/aljaziz/LeetCode/tree/master/0575-distribute-candies) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aljaziz/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/aljaziz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aljaziz/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aljaziz/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/aljaziz/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/aljaziz/LeetCode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/aljaziz/LeetCode/tree/master/0575-distribute-candies) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aljaziz/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aljaziz/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aljaziz/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/aljaziz/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/aljaziz/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/aljaziz/LeetCode/tree/master/0567-permutation-in-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aljaziz/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Prefix Sum
