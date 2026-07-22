@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aljaziz/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aljaziz/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aljaziz/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/aljaziz/LeetCode/tree/master/0575-distribute-candies) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aljaziz/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aljaziz/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aljaziz/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/aljaziz/LeetCode/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/aljaziz/LeetCode/tree/master/0575-distribute-candies) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aljaziz/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Sorting
 |  |
