@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aljaziz/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aljaziz/LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/aljaziz/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aljaziz/LeetCode/tree/master/0049-group-anagrams) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aljaziz/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aljaziz/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/aljaziz/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aljaziz/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aljaziz/LeetCode/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aljaziz/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
