@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aljaziz/LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/aljaziz/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aljaziz/LeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aljaziz/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aljaziz/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aljaziz/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/aljaziz/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aljaziz/LeetCode/tree/master/0217-contains-duplicate) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aljaziz/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/aljaziz/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aljaziz/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aljaziz/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
